@@ -25,7 +25,7 @@ SECRET_KEY = 'h-3rp0@1cbkkbsb2%$zw#(6rd@=t6%9ktxw!shff7mp%rz@g*z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['3.129.72.116','127.0.0.1']
+ALLOWED_HOSTS = ['3.129.72.116','127.0.0.1','localhost']
 
 
 # Application definition
@@ -76,15 +76,15 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 
 DATABASES = {
     'default': {
-        #'ENGINE': 'django.db.backends.sqlite3',
-        #'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
 
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'postgres2',
-        'USER': 'postgres',
-        'PASSWORD': 'mukSam@908',
-        'HOST': '127.0.0.1',
-        'PORT': '5432',
+        #'ENGINE': 'django.db.backends.postgresql',
+        #'NAME': 'postgres',
+        #'USER': 'postgres',
+        #'PASSWORD': 'mukSam@908',
+        #'HOST': '127.0.0.1',
+        #'PORT': '5432',
     }
 }
 
@@ -129,3 +129,5 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 
+
+STATIC_ROOT = '/Users/mukeshj92004/PycharmProjects/Tutorial/mysite/static/'
