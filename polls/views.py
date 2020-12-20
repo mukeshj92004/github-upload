@@ -41,6 +41,7 @@ class IndexView(generic.ListView):
         """Return the last five published questions."""
         #return Question.objects.order_by('-pub_date')[:5]
 
+
 #def detail(request, question_id):
     #return HttpResponse("You're looking at question %s." % question_id)
     #try:
@@ -88,3 +89,9 @@ def vote(request, question_id):
         # with POST data. This prevents data from being posted twice if a
         # user hits the Back button.
         return HttpResponseRedirect(reverse('polls:results', args=(question.id,)))
+
+def aboutsview(request):
+  return render(request,"polls/abouts.html")
+
+def servicesview(request):
+  return render(request,"polls/services.html")

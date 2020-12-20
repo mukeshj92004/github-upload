@@ -130,4 +130,5 @@ STATIC_URL = '/static/'
 
 
 
+#STATIC_ROOT = '/Users/mukeshj92004/PycharmProjects/Tutorial/mysite/static/'
 STATIC_ROOT = '/Users/mukeshj92004/PycharmProjects/Tutorial/mysite/static/'

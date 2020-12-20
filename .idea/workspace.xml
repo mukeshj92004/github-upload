@@ -2,10 +2,672 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="467b7cf9-1fb8-4593-9cd7-2763ddcb1ad6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/polls/static/02_abouts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/03_services.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/04_service_detail_seo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/05_service_details_localseo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/06_service_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/07_service_email_marketing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/08_service_ppc_management.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/09_our_clients.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/10_testimonials.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/11_case_studies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/12_project_details_ver_01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/13_project_details_ver_02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/14_blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/15_blog_details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/16_shop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/17_product_details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/19_cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/20_checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/21_seo_analysis.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/22_contacts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/24_slides.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/25_navigation-flat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/27_popup-cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/28_popup-search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/29_lightbox_search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/32_testimonials.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/33_charts_counters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/34_pricing-tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/36_slider-with-photo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/37_navigation-with-photo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/38_photo-elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/39_gallery_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/clients-to-load.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/blocks.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/crumina-fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/gallery-skin/default-skin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/gallery-skin/default-skin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/gallery-skin/default-skin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/gallery-skin/preloader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/ion.rangeSlider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/jquery.mCustomScrollbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/jquery.mCustomScrollbar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/layouts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/maps/base.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/maps/blocks.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/maps/layouts.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/maps/modules.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/maps/widgets-styles.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/modules.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/photo-gallery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/primary-menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/swiper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/css/widgets-styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/email.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/fonts/seosight.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/fonts/seosight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/fonts/seosight.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/fonts/varelaround-regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/fonts/varelaround-regular-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/404-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/amex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/analysis.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/avatar-b-details.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/avatar-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/avatar1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/avatar2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/avatar3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/avatar4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/avatar5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/avatar6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/avatar7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/avatar8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/avatar8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/avatar9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/background-element.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/bg-boxed-black.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/bg-boxed-blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/bg-boxed-dark.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/bg-boxed-light.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/bg-boxed-primary.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/bg-boxed-red.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/blog-details-author.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/blog-details.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/book1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/book2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/book3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/book4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/book5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/book6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/book7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/book8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/book9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/cart-product1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/cart-product2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/cart-product3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/cart-product4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/cart-product5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/cart-product6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/case1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/case2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/case3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/case4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/case5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/case6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/case7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/case8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/client-white1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/client-white2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/client-white3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/client-white4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/client-white5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/client-white6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/client1-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/client2-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/client3-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/client4-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/client5-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/client6-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/contact4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/contact5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/contact6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/contact7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/contact8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/contact9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/description-mac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/description1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/discover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/elements.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/eye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/features1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/features2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/features3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/features4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/features5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/features6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/france.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/gear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/germany.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/google-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/info-box9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/interested-product1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/interested-product2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/interested-product3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/load-more-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/load-more-line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/local-seo-main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/local-seo1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/local-seo2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/local-seo3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/local-seo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/logo-eye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/mac-book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/marker-google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/marketing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/mastercard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/menu-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/mountain1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/mountain2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/offers1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/offers2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/pattern-bg-blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/pattern-bg-breez.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/pattern-bg-brown.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/pattern-bg-gray.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/pattern-bg-green.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/pattern-bg-lightblue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/pattern-bg-lightgray.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/pattern-bg-lightviolet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/pattern-bg-lime.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/pattern-bg-olive.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/pattern-bg-orange.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/pattern-bg-red.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/pattern-bg-rose.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/pattern-bg-violet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/pay-pal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/photo-elements1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/photo-elements2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/photo-elements3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/photo-elements4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/photo-elements5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/post-author1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/post-author2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/post-author3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/post1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/post2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/post3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/post4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/ppc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/pricing-dots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/pricing1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/pricing2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/pricing3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/product-details.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/product-solution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/profit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/request.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/results-ver2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/reviews-avatar1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/reviews-avatar2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/reviews-avatar3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/russia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/seo-analysis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/seoscore1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/seoscore2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/seoscore3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/services1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/services2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/services3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/services4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/services5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/signin_color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/signin_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/slider-photo1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/slider-photo2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/slider-photo3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/slider-photo4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/slider-photo5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/slider1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/slider2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/slider3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/slider4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/slider5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/social-photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/social-photo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/solutions.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/stunning-header-photo1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/stunning-header-photo2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/stunning-header-photo3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/stunning-header-photo4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/stunning-header-photo5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/stunning-header-photo6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/subscr-gear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/subscr-hand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/subscr-mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/subscr-mailopen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/subscr1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/teammember1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/teammember2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/teammember3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/teammember4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/testimonial-author1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/testimonial-author2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/testimonial1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/testimonial2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/time-line-thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/ukraine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/united-states-of-america.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/video-format.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/video1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/video2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/img/visa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/import.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/index-original-mysite.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/items-to-load.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/ScrollMagic.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/Magnific-Popup/jquery.magnific-popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/Magnific-Popup/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/ScrollMagic/ScrollMagic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/ScrollMagic/plugins/animation.gsap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/ScrollMagic/plugins/animation.velocity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/ScrollMagic/plugins/debug.addIndicators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/ScrollMagic/plugins/jquery.ScrollMagic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/circle-progress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/imagesloaded.pkgd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/isotope.pkgd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/jquery.countTo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/jquery.drawsvg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/jquery.mCustomScrollbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/jquery.matchHeight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/jquery.mousewheel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/jquery.waypoints.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/segment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/swiper/css/swiper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/swiper/css/swiper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/swiper/js/maps/swiper.jquery.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/swiper/js/maps/swiper.jquery.umd.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/swiper/js/maps/swiper.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/swiper/js/swiper.jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/swiper/js/swiper.jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/swiper/js/swiper.jquery.umd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/swiper/js/swiper.jquery.umd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/swiper/js/swiper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/swiper/js/swiper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/Uncompressed/velocity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/ajax-pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/animation.velocity.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/crum-mega-menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/donut-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/form-actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/isotope.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/Headroom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/MarkerClusterGroup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/ScrollMagic.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/ajax-pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/animation.velocity.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/crum-mega-menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/donut-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/fastClick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/form-actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/imagesLoaded.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/ion.rangeSlider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/isotope.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/jquery-circle-progress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/jquery-countTo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/jquery.drawsvg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/jquery.mCustomScrollbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/jquery.magnific-popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/jquery.matchHeight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/jquery.mousewheel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/jquery.nice-select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/leaflet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/photo-gallery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/segment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/smooth-scroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/swiper.jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/time-line.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/velocity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/js-plugins/waypoints.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/photo-gallery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/smooth-scroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/swiper.jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/theme-plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/js/time-line.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/modules/forms/inc/MailChimp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/modules/forms/inc/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/modules/forms/src/js/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/modules/forms/src/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/modules/forms/src/js/sweetalert2.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/modules/forms/submit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/base/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/base/_helper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/base/_table-of-contents.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/base/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/base/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/base/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_accordion.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_alerts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_animation-icon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_info-box.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_input.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_leaflet.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_local-seo.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_navigation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_offers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_pagination-arrow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_popup-cart.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_popup-search.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_post.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_preloader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_range-slider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_select.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_services.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_socials.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_stunning-header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_testimonial.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_top-bar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/_window-popup.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/blocks/blocks.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/css/blocks.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/css/layouts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/css/modules.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/css/widgets-styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/layouts/_404-page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/layouts/layouts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_books.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_cart.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_clients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_comments.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_contact-form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_contacts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_counters.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_features.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_heading.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_interested-products.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_order.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_our-video.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_overlay-menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_pie-charts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_pricing-tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_product-details.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_recent-case.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_recent-post.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_seo-score.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_shop-user-form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_skills.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_sliders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_socials-panel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_subscribe.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_teammembers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/_time-line.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/modules/modules.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/widgets/_widgets.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/sass/widgets/widgets-styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/send_mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/svg/arrow-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/svg/arrow-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/svg/arrow_forward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/svg/back-to-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/svg/circle-facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/svg/down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/svg/google.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/svg/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/svg/rss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/svg/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/svg/video-control.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/svg/youtube.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/typography.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/04_service_detail_seo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/05_service_details_localseo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/06_service_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/07_service_email_marketing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/08_service_ppc_management.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/09_our_clients.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/10_testimonials.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/11_case_studies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/12_project_details_ver_01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/13_project_details_ver_02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/14_blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/15_blog_details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/16_shop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/17_product_details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/19_cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/20_checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/21_seo_analysis.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/22_contacts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/24_slides.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/25_navigation-flat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/27_popup-cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/28_popup-search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/29_lightbox_search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/32_testimonials.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/33_charts_counters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/34_pricing-tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/36_slider-with-photo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/37_navigation-with-photo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/38_photo-elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/39_gallery_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/Theme1Html/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/Theme1Html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/Theme1Html/results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/clients-to-load.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/index-original-mysite.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/items-to-load.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/typography.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip-20.2.4.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip-20.2.4.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip-20.2.4.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip-20.2.4.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip-20.2.4.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip-20.2.4.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip-20.2.4.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/build_env.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/build_env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/cache.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/cli/base_command.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/cli/base_command.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/cli/cmdoptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/cli/cmdoptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/cli/command_context.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/cli/command_context.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/cli/main_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/cli/main_parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/cli/parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/cli/parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/cli/req_command.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/cli/req_command.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/cli/spinners.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/cli/spinners.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/cache.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/check.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/completion.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/completion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/configuration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/debug.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/debug.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/download.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/download.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/freeze.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/freeze.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/help.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/help.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/install.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/show.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/show.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/commands/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/configuration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/distributions/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/distributions/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/distributions/installed.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/distributions/installed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/distributions/sdist.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/distributions/sdist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/distributions/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/distributions/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/index/collector.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/index/collector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/index/package_finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/index/package_finder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/locations.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/locations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/models/candidate.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/models/candidate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/models/direct_url.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/models/direct_url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/models/format_control.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/models/format_control.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/models/link.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/models/link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/models/selection_prefs.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/models/selection_prefs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/models/target_python.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/models/target_python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/network/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/network/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/network/cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/network/cache.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/network/download.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/network/download.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/network/lazy_wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/network/lazy_wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/network/session.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/network/session.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/network/xmlrpc.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/network/xmlrpc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/operations/build/metadata.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/operations/build/metadata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/operations/build/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/operations/build/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/operations/build/wheel_legacy.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/operations/build/wheel_legacy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/operations/check.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/operations/check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/operations/freeze.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/operations/freeze.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/operations/install/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/operations/install/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/operations/prepare.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/operations/prepare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/pyproject.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/pyproject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/req/constructors.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/req/constructors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/req/req_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/req/req_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/req/req_install.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/req/req_install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/req/req_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/req/req_set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/req/req_tracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/req/req_tracker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/req/req_uninstall.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/req/req_uninstall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/resolution/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/resolution/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/resolution/legacy/resolver.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/resolution/legacy/resolver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/resolution/resolvelib/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/resolution/resolvelib/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/resolution/resolvelib/candidates.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/resolution/resolvelib/candidates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/resolution/resolvelib/factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/resolution/resolvelib/factory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/resolution/resolvelib/provider.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/resolution/resolvelib/provider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/resolution/resolvelib/requirements.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/resolution/resolvelib/requirements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/resolution/resolvelib/resolver.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/resolution/resolvelib/resolver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/self_outdated_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/self_outdated_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/compatibility_tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/compatibility_tags.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/direct_url_helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/direct_url_helpers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/encoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/encoding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/entrypoints.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/entrypoints.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/filetypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/filetypes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/hashes.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/hashes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/misc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/packaging.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/packaging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/parallel.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/parallel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/subprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/subprocess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/temp_dir.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/utils/temp_dir.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/vcs/bazaar.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/vcs/bazaar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/vcs/git.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/vcs/git.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/vcs/subversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/vcs/subversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/vcs/versioncontrol.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/vcs/versioncontrol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/wheel_builder.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_internal/wheel_builder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/certifi/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/certifi/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/certifi/cacert.pem" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/certifi/cacert.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/colorama/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/colorama/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/colorama/ansi.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/colorama/ansi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/colorama/ansitowin32.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/colorama/ansitowin32.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/packaging/__about__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/packaging/__about__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/packaging/requirements.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/packaging/requirements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/packaging/specifiers.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/packaging/tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/packaging/tags.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/packaging/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/packaging/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/packaging/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/packaging/version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/pep517/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/pep517/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/pep517/wrappers.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/pep517/wrappers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/requests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/requests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/requests/__version__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/requests/__version__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/requests/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/requests/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/requests/sessions.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/requests/sessions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/requests/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/requests/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/resolvelib/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/resolvelib/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/resolvelib/providers.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/resolvelib/providers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/resolvelib/reporters.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/resolvelib/reporters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/resolvelib/resolvers.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/resolvelib/resolvers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/resolvelib/structs.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/resolvelib/structs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/toml/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/toml/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/toml/common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/toml/decoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/toml/decoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/toml/encoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/toml/encoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/toml/tz.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/toml/tz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/_collections.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/_collections.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/connection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/connectionpool.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/connectionpool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/contrib/appengine.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/contrib/appengine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/contrib/ntlmpool.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/contrib/ntlmpool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/contrib/pyopenssl.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/contrib/pyopenssl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/contrib/securetransport.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/contrib/securetransport.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/contrib/socks.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/contrib/socks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/fields.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/fields.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/filepost.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/filepost.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/poolmanager.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/poolmanager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/request.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/response.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util/connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util/connection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util/queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util/queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util/request.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util/request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util/response.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util/response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util/retry.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util/retry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util/ssl_.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util/ssl_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util/timeout.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util/timeout.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util/url.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util/url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util/wait.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/urllib3/util/wait.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/vendor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pip/_vendor/vendor.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/templates/polls/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/polls/templates/polls/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/polls/templates/polls/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/templates/polls/results.html" beforeDir="false" afterPath="$PROJECT_DIR$/polls/templates/polls/results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,15 +695,19 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/polls/templates/polls/Theme1Html" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/mysite" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/polls/templates/polls/Theme1Html" />
       <recent name="$PROJECT_DIR$/polls/static/polls/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/polls/templates/polls/Theme1Html" />
+      <recent name="$PROJECT_DIR$/polls/static" />
+      <recent name="$PROJECT_DIR$/polls/templates/polls" />
+      <recent name="$PROJECT_DIR$/mysite" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -68,14 +734,15 @@
     <state x="396" y="196" key="SettingsEditor/0.23.1792.1022@0.23.1792.1022" timestamp="1604115012777" />
     <state x="396" y="196" key="SettingsEditor/0.23.1792.1024@0.23.1792.1024" timestamp="1600926637068" />
     <state x="396" y="197" key="SettingsEditor/0.23.1792.1030@0.23.1792.1030" timestamp="1603771884936" />
-    <state x="656" y="389" key="com.intellij.ide.util.TipDialog" timestamp="1607371641352">
-      <screen x="0" y="25" width="1792" height="1023" />
+    <state x="656" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1608377828327">
+      <screen x="0" y="25" width="1792" height="1017" />
     </state>
     <state x="656" y="364" key="com.intellij.ide.util.TipDialog/0.23.1792.1024@0.23.1792.1024" timestamp="1604097344701" />
     <state x="656" y="365" key="com.intellij.ide.util.TipDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1604192949865" />
     <state x="656" y="366" key="com.intellij.ide.util.TipDialog/0.23.1792.1030@0.23.1792.1030" timestamp="1605326791825" />
     <state x="656" y="367" key="com.intellij.ide.util.TipDialog/0.23.1792.1033@0.23.1792.1033" timestamp="1603776466981" />
     <state x="656" y="369" key="com.intellij.ide.util.TipDialog/0.23.1792.1034@0.23.1792.1034" timestamp="1601726559889" />
-    <state x="656" y="389" key="com.intellij.ide.util.TipDialog/0.25.1792.1023@0.25.1792.1023" timestamp="1607371641352" />
+    <state x="656" y="387" key="com.intellij.ide.util.TipDialog/0.25.1792.1017@0.25.1792.1017" timestamp="1608377828327" />
+    <state x="656" y="389" key="com.intellij.ide.util.TipDialog/0.25.1792.1023@0.25.1792.1023" timestamp="1608072265880" />
   </component>
 </project>
